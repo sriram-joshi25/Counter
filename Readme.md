@@ -18,7 +18,8 @@ A simple and interactive counter application built using **HTML**, **CSS**, and 
 - **JavaScript (ES6)** for interactivity
 
 # 📷 Screenshot
-![Counter Screenshot](/webdeveloping/counter/image.png)  
+
+![Counter Screenshot](image.png)  
 
 
 # 📂 How to Run Locally
