@@ -54,16 +54,23 @@ body{
 
 @media screen and (max-width:600px) {
 
+body{
+    width:fit-content;
+    margin-left: 25%;
+    
+}
+
     .counter{
     width: 100%;
     margin-left:42% ;
-    margin-top: 10%;
+    margin-top: 80%;
     font-size: 1.3rem;
 }
 #disp{
-    height: 100px;
-    width: 150px;
+    /* height: 100px; */
+    /* width: 150px; */
     margin-left: 30%x;
+    margin-top: 20px;
 }
     
 }
